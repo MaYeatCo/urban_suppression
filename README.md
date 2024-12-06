@@ -49,3 +49,5 @@ Figure 8:
 Figure 9:
 
 <img src="./pics/supp_chi_pos_1_v1.png" alt="drawing" width="200"/><img src="./pics/supp_chi_pos_2_v1.png" alt="drawing" width="200"/><img src="./pics/supp_chi_pos_3_v1.png" alt="drawing" width="200"/>
+
+urban_2D_PDE_arho is a code to simulate the restoration strategy and produce figure 10. This code is similar to urban_2D_PDE_single, but the PDE needs to be solved three times. Dw (the police diffusion) needs to be changed to move between super- and sub- critical regimes, however, note that if epsilon is positive then it does not really matter which regime you are considering.
