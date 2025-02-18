@@ -1,4 +1,5 @@
-This is a repository that contains codes for the paper "A study of pattern formation for across-diffusion system appearing in social applications: hotspot formation and suppression" by M. Yerlanov, N. Rodriguez, Q. Wang.
+This is a repository that contains codes for the paper "Formation and Suppression of Hotspots in Urban Crime
+Models with Law Enforcement" by M. Yerlanov, N. Rodriguez, Q. Wang.
 
 Mathematica codes:
 
